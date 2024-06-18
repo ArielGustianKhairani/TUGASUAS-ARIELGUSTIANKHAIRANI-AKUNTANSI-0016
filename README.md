@@ -14,7 +14,9 @@ Pairplot: Pairplot memberikan visualisasi hubungan antar variabel melalui scatte
 
 Gambar 3
 Model Regresi Linear: Model regresi linear digunakan untuk memprediksi jumlah penjualan berdasarkan harga per unit dan jenis produk. Nilai Mean Squared Error (MSE) dan R-squared digunakan untuk mengevaluasi kinerja model. MSE yang rendah dan R-squared yang tinggi menunjukkan bahwa model memiliki kinerja yang baik dalam memprediksi jumlah penjualan.
+
 Plot Prediksi vs Aktual: Plot ini menunjukkan seberapa baik prediksi model sesuai dengan data aktual. Titik-titik yang mendekati garis merah menunjukkan prediksi yang akurat.
+
 ![alt text](https://github.com/ArielGustianKhairani/TUGASUAS-ARIELGUSTIANKHAIRANI-AKUNTANSI-0016/blob/main/Figure_3.png?raw=true)
 
 Gambar 4 
